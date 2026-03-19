@@ -1,5 +1,11 @@
-## Hi there 👋
+## hellooo
 
+I'm starting my coding journey!
+I'm currently learning HTML
+Fun Facts:
+I have a Nebelung Manx and 3 shorthair triplet kitties!
+I am playing Minecraft and Final Fantasy VII
+Elric of Melniboné is my hero
 <!--
 **JPEGmegan/JPEGmegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
